@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+statsmodels
+scikit-learn
+tensorflow
+firebase_admin
